@@ -1,5 +1,4 @@
- Lost Moda Theme
- 
+# Lost Moda Theme
  
 * The Lost Moda theme for Brackets!
 * Theme is a Dark type
