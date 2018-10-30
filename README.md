@@ -17,12 +17,12 @@ Visit http://brackets-themes.github.io/ to see the latest install instructions.
 
 ### HTML
 
-![HTML Screenshot]
+![HTML Screenshot] https://github.com/flashrhymes/Lost-Moda/blob/master/Lost-Moda/screenshots/Html.png
 
 ### CSS
 
-![CSS Screenshot]
+![CSS Screenshot] https://github.com/flashrhymes/Lost-Moda/blob/master/Lost-Moda/screenshots/CSS.png
 
 ### JavaScript
 
-![JS Screenshot]
+![JS Screenshot] https://github.com/flashrhymes/Lost-Moda/blob/master/Lost-Moda/screenshots/Javascript.png
